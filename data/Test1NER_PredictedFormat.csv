@@ -1,0 +1,4 @@
+Sentences;Word;POST;Predicted
+Sentence: 9001;In;IN;O
+;2005;CD;B-time
+;,;,;O
